@@ -31,7 +31,7 @@
 <br>
 <label>NIM :</label>              <input type="text" name="nim" required><br>
 <br>
-<label>IP Address:</label>     <input type="text" name="operator" required><br>
+<label>IP Address:</label>     <input type="text" name="IP Address" required><br>
 <br>
 <hr>
 <input class="w3-button w3-grey" type="submit" value="SUBMIT">
