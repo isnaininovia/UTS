@@ -10,7 +10,7 @@
 <div class="w3-container">
 <label class="w3-label">Data Pemantauan Covid 19 Wilayah</label> <?php echo $_POST["wilayah"];?><br>
 <label class="w3-label">Per</label> <?php date_default_timezone_set('Asia/Jakarta'); echo date("l, d M Y h:i:s a");?><br>
-<?php echo $_POST["operator"];?> / <?php echo $_POST["nim"];;?>
+<?php echo $_POST["operator"];?> / <?php echo $_POST["nim"];;?> / <?php echo $_POST["ip address"];;?>
 <hr>
 <br>
 <table class="w3-table w3-border w3-striped w3-card-4">
